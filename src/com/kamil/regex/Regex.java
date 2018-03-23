@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.Hashtable;
 import java.util.stream.IntStream;
 
-
+  
 public class Regex {
     public String in = "Keyspace: p3graphite\n\tRead Count: 32342\n\tReadLatency: 0.23423 ms.\n\tWrite Count: 32423\n\n--------";
 //Keyspace: p3graphite,Read Count: 32342,ReadLatency: 0.23423 ms.,Write Count: 32423,,
